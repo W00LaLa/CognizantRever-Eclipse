@@ -1,6 +1,7 @@
 package inheritance;
 
 class A{  
+	
 	A(){System.out.println("hello a");}  //default constructor
 	
 	A(int x){  //parameterized constructor

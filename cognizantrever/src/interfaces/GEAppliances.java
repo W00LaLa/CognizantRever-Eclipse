@@ -1,7 +1,6 @@
 package interfaces;
 
 public class GEAppliances implements ISwitchBoardListener{
-
     public void switchOne() {
         System.out.println("GE fan is on");
     }

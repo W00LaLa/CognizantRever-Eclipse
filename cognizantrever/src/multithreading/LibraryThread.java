@@ -1,7 +1,6 @@
 package multithreading;
 
 public class LibraryThread implements Runnable{
-
     public void run() {
         //System.out.println("im getting signs from library");
     	try {

@@ -7,5 +7,4 @@ public class Gst extends IncomeTax {
 		int gst = income /20;
 		return oldTax + gst;
 	}
-
 }

@@ -7,6 +7,4 @@ public class Bike extends Vehicle{
 		super.run();
 		System.out.println("bike is running");
 	}
-	
-
 }

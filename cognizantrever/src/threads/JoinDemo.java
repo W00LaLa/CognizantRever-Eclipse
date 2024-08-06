@@ -1,7 +1,6 @@
 package threads;
 
 public class JoinDemo {
-
 	public static void main(String[] args) {
 		Collegue collegue1 = new Collegue();
 		collegue1.setName("ameri");

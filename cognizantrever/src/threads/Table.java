@@ -1,6 +1,7 @@
 package threads;
 
 class Table{  
+	
 	void printTable(int n){//method not synchronized  
 		System.out.println("thread --"+Thread.currentThread().getName()+"has entered the bank");
 		synchronized (this) {

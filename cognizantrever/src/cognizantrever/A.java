@@ -11,4 +11,4 @@ public class A
     {  
         int data=50;//instance variable    
     }  
-}//end
+}

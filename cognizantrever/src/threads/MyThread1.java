@@ -1,6 +1,7 @@
 package threads;
 
-class MyThread1 extends Thread{  
+class MyThread1 extends Thread{ 
+	
 	Table t;  
 
 	MyThread1(Table t){  

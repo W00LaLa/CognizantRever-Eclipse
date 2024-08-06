@@ -1,7 +1,6 @@
 package threads;
 
 class TestSynchronization1{  
-
 	public static void main(String args[]){  
 		Table obj = new Table();//only one shared object  
 		MyThread1 t1=new MyThread1(obj);  

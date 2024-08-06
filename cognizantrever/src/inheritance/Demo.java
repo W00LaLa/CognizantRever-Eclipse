@@ -6,5 +6,4 @@ public class Demo {
 		Bike bike = new Bike();
 		bike.run();
 	}
-
 }
